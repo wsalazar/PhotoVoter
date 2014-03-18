@@ -1,0 +1,11 @@
+.like{
+    display:inline-block;
+    cursor: pointer;
+}
+.unlike{
+	cursor: pointer;
+}
+#images{
+
+	margin-left: 5px;
+}
